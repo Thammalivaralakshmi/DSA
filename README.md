@@ -1,1 +1,5 @@
-It's a simple java code to use Scanner and printing Greetings with Name taken from user.
+This is simple java programs folder like having 
+String concatenation
+Finding a largest Number
+Amstrong Number
+Fibonacci Series
